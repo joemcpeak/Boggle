@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BogPoc.WebApp", "BogPoc.WebApp\BogPoc.WebApp.csproj", "{F2B1D9AA-4019-473E-97BC-D36FEF06F590}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BogPoc.Tests", "BogPoc.Tests\BogPoc.Tests.csproj", "{50728CDE-7FCA-40CF-AE34-ED667D39CC57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2B1D9AA-4019-473E-97BC-D36FEF06F590}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2B1D9AA-4019-473E-97BC-D36FEF06F590}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2B1D9AA-4019-473E-97BC-D36FEF06F590}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2B1D9AA-4019-473E-97BC-D36FEF06F590}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50728CDE-7FCA-40CF-AE34-ED667D39CC57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50728CDE-7FCA-40CF-AE34-ED667D39CC57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50728CDE-7FCA-40CF-AE34-ED667D39CC57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50728CDE-7FCA-40CF-AE34-ED667D39CC57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CBC1776-7924-48AA-8901-8765B40E2F5F}
+	EndGlobalSection
+EndGlobal
